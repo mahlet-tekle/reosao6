@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... photoshoot ,poems , coding and video editing 
 - 🌱 I’m currently learning ... data science 
 - 💞️ I’m looking to collaborate on ...coding programs
-- 📫 How to reach me ...through my email (nuhatekle26@gmail.com)
+- 📫 How to reach me ...through my email (Mahlettekle196@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
