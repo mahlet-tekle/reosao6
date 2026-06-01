@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahlet-tekle/mahlet-tekle/main/Screenshot%20(192).png" width="100%" alt="banner"/>
+  <img src="https://thedatascientist.com/wp-content/uploads/2025/08/Data-Science.webp" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Mahlet Tekle</h1>
