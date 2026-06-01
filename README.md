@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reosao6
+- 👋 Hi, I’m Mahlet
 - 👀 I’m interested in ... photoshoot ,poems , coding and video editing 
 - 🌱 I’m currently learning ... data science 
 - 💞️ I’m looking to collaborate on ...coding programs
